@@ -41,3 +41,16 @@ alert( checkSpam("innocent rabbit") );
 ## Completed projects
 1. https://github.com/EvgeniTolkach/rsschool-cv.git
 2. ...
+
+## Education
+**Minsk State Engineering College**
+_Technologist / September 2005 - June 2008_
+**International humanitarian and economic institute**
+_Economist-manager /  graduated in 2013_
+**Rolling Scopes School**
+_JS/FE Stage#0 2022Q2 / Still learning_
+
+## Languages
+**Belarussian - C1/Advanced**
+**Russian - C1/Advanced**
+**English - B1/Intermediate**
