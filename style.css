@@ -1,9 +1,30 @@
 .ava_logo {
     width: 200px;
-    height: 200px;
+    height: 180px;
     border-radius: 30%;
-    box-shadow: midnightblue;
+    box-shadow: 5px 5px 5px midnightblue;
     position: absolute;
     top: 5px;
-    left: 5px;
+    left: 300px;
 }
+
+
+.footer {
+    background-color: cornflowerblue;
+    height: 100px;
+    position: absolute;
+    bottom: 10px;
+    
+}
+
+.footer-box{
+  
+    
+}
+
+.rss-logo {
+  width: 121px;
+  height: 45px;
+  position: relative;
+  left: 800px;
+}   

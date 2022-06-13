@@ -15,14 +15,90 @@
   </header>
 
   <main>
-    <div>
-      <img src="cv-ava.jpg" alt="ET" class="ava">
+    <section class="title">
+      <img src="assets/img/cv-ava.jpg" alt="ET" class="ava_logo">
+      <div>  
       <h1>Evgeni Tolkach</h1>
-    </div>
+      <h4>JUNIOR FRONT-END DEVELOPER</h4>
+      </div>
+    </section> 
+
+    <section class="box" id="contacts">
+      <h3 class="box-name">CONTACTS</h3>
+      <ul>
+        <li>
+          Email: <a href="mailto:mg4rulez@gmail.com" title="email">mg4rulez@gmail.com</a>
+        </li>
+        <li>
+          Github: <a href="https://github.com/EvgeniTolkach" title="github">EvgeniTolkach</a>
+        </li>
+        <li>
+          Discord: Evgeni#6131
+        </li>
+      </ul>
+    </section>
+
+    <section class="box" id="skills">
+        <h3 class="box-name">SKILLS</h3>
+        <ul>
+          <li>
+            JavaScript junior
+          </li>
+          <li>
+            Visual Studio Code
+          </li>
+          <li>
+            GitHub
+          </li>
+        </ul>
+    </section>
+    
+    <section class="box" id="code">
+        <h3 class="box-name">CODE EXAMPLE</h3>    
+        <pre>
+            <code>
+
+                'use strict';
+                
+                let ex1 = 'XXX'
+                let ex2 = 'viagra'
+                
+                function checkSpam(str) {
+                
+                let strLow = str.toLowerCase();
+                let exCheck1 = ex1.toLowerCase();
+                let exCheck2 = ex2.toLowerCase();
+                
+                return strLow.includes(exCheck1) || strLow.includes(exCheck2)
+                }
+                
+                alert( checkSpam('buy ViAgRA now') );
+                alert( checkSpam('free xxxxx') );
+                alert( checkSpam("innocent rabbit") );
+                
+            </code>
+
+        </pre>
+    </section>
+
+    <section class="box" id="aboutme">
+      <h3 class="box-name">ABOUT ME</h3>
+      <p>
+        Self-learning, achievement of set targets, problem solving, leadership skills (working as a head of department for 4 years at Swiss company Stadler Rail, manage over 60 employees)  
+      </p>
+
+    </section>
+
 
   </main>  
 
-  <footer>
+  <footer class="footer">
+    <div>
+      <p class="footer-box">© 2022 <a href="https://github.com/EvgeniTolkach" title="github">Evgeni Tolkach</a></p>
+    
+      <img src="assets/svg/rs_school_js.svg" alt="The Rolling Scopes" class="rss-logo">
+    </div> 
+
   </footer>
 
 </body>
