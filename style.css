@@ -1,30 +1,46 @@
+html {
+    background-color: rgb(98, 189, 196);
+}
+
+h1 {
+    font-size: 48px;
+    font-family: Verdana, Tahoma, sans-serif;
+    margin: 0px;
+}
+
+.nav{
+    background-color: rgba(98, 190, 255);
+    padding: 5px;
+}
+
+.nav-element {
+    font-style: normal normal normal 24px/1.5 Verdana, sans-serif;
+    color: rgb(8, 8, 32);
+    padding: 5px 5px 5px 5px;
+}
+
 .ava_logo {
-    width: 200px;
-    height: 180px;
+    width: 220px;
+    height: 200px;
     border-radius: 30%;
-    box-shadow: 5px 5px 5px midnightblue;
-    position: absolute;
+    box-shadow: 5px 5px 5px rgb(140, 140, 207);
+    position: relative;
     top: 5px;
-    left: 300px;
+    left: 40%;
 }
 
-
-.footer {
-    background-color: cornflowerblue;
-    height: 100px;
-    position: absolute;
-    bottom: 10px;
-    
+.box {
+    margin: 50px;
 }
 
-.footer-box{
-  
-    
+.box-name {
+    font-family: Verdana, Tahoma, sans-serif;
 }
 
 .rss-logo {
-  width: 121px;
-  height: 45px;
-  position: relative;
-  left: 800px;
-}   
+    width: 150px;
+    height: 75px;
+    position: relative;
+    top: 5px;
+    left: 40%;
+}
