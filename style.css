@@ -26,7 +26,7 @@ h1 {
     box-shadow: 5px 5px 5px rgb(140, 140, 207);
     position: relative;
     top: 5px;
-    left: 40%;
+    left: 40%;  
 }
 
 .box {
@@ -37,10 +37,12 @@ h1 {
     font-family: Verdana, Tahoma, sans-serif;
 }
 
+.footer-box{
+    float: left;
+}
+
 .rss-logo {
     width: 150px;
     height: 75px;
-    position: relative;
-    top: 5px;
-    left: 40%;
+    float: right;
 }
