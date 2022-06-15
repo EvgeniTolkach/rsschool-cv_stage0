@@ -51,6 +51,6 @@ _Economist-manager /  graduated in 2013_
 _JS/FE Stage#0 2022Q2 / Still learning_
 
 ## Languages
-**Belarussian - C1/Advanced**
+**Belarussian - Native**
 **Russian - C1/Advanced**
 **English - B1/Intermediate**
