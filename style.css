@@ -73,7 +73,7 @@ footer {
     font-weight: bold;
 }
 
-.rss {
+.rss-footer {
     width: 121px;
     height: 45px;
 }
@@ -88,8 +88,27 @@ footer {
 
 h1{
     font-size: 40px;
+    font-weight: bold;
 }
 
+.footer-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+    width: 100%;
+    padding: 0 20px;
+}
+
+.git-footer{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.c-footer {
+    font-weight: bold;
+    font-size: 20px;
+}
 
 
 
