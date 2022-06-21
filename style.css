@@ -74,8 +74,7 @@ footer {
 }
 
 .rss-footer {
-    width: 121px;
-    height: 45px;
+    align-self: center;
 }
 
 .ava_logo {
@@ -106,10 +105,15 @@ h1{
 }
 
 .c-footer {
+    align-self: center;
     font-weight: bold;
     font-size: 20px;
 }
 
+.rss-image {
+    width: 121px;
+    height: 45px;
+}
 
 
 @media (max-width: 768px) {
